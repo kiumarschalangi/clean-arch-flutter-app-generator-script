@@ -10,5 +10,5 @@ Welcome to the Flutter Clean Architecture App Creator! This Bash script is desig
 ## Usage
 1. Run the script in your terminal.
    ```bash
-   ./create_flutter_app.sh
+   ./init-flutter-clean-arch.sh
 
